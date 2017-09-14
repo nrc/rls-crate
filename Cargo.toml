@@ -8,4 +8,5 @@ repository = "https://github.com/rust-lang-nursery/rls"
 categories = ["development-tools"]
 
 
-[dependencies]
+[[bin]]
+name = "rls"
